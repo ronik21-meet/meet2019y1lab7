@@ -93,13 +93,5 @@ def move_snake():
 new_stamp()
 
 remove_tail()
-        
-    
-    
-                  
 
-
-    
-
-
-    turtle.mainloop()
+turtle.mainloop()
